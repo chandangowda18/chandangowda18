@@ -2,83 +2,110 @@
 
 <h3 align="center">
 Information Science & Engineering Undergraduate  
-<br/>
-Web Developer | UI Builder | Application Dashboard Developer
+Web Application Developer | UI & Dashboard Builder
 </h3>
 
 <p align="center">
-Passionate about building real-world web applications, structured dashboards, 
-and clean user interfaces with practical problem-solving.
+Focused on building structured web applications, dashboards, and practical real-world systems.
 </p>
 
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 ISE Undergraduate focused on Software & Web Development  
-- 💻 Building structured web applications and interactive dashboards  
-- 🤖 Developed an AI Chatbot using Gemini API  
-- 📄 Designed an OCR-based Document Upload & Verification Interface  
-- 🏫 Built a University Application Management Dashboard  
-- 🖥 Currently working on a Cyber Café Management System  
-- 🌱 Continuously improving JavaScript, CSS, and application architecture  
-- 📫 Email: **chandangowda14ac@gmail.com**
+- 🎓 ISE Undergraduate
+- 💻 Interested in Web Development & Software Systems
+- 🧩 Passionate about UI design and structured dashboards
+- 🌱 Improving JavaScript, CSS & application architecture
+- 📫 chandhangowda14ac@gmail.com
 
 ---
 
-## 🚀 Projects
-
-### 🤖 AI Assistant Chatbot
-- ChatGPT-like chatbot interface
-- Integrated Gemini API
-- Dynamic conversational responses
-- Clean UI with structured message handling
-
-### 📄 OCR Document Verification System
-- Multi-document upload interface (SSN, Passport, W2, Transcript)
-- Real-time validation & error feedback
-- Document status tracking dashboard
-- Retry & correction flow for failed verification
-
-### 🎓 University Application Dashboard
-- Multi-step application workflow
-- Personal info, academic history, test scores modules
-- Digital declaration & signature system
-- Application status tracking & document management
-
-### 🖥 Cyber Café Management System
-- User record management
-- Session tracking
-- Administrative dashboard
-- Basic billing and monitoring features
+# 🚀 My Projects
 
 ---
 
-## 🛠 Tech Stack
+## 🤖 AI Assistant Chatbot (Gemini API)
+
+- ChatGPT-like conversational interface  
+- Integrated Gemini API  
+- Dynamic user input handling  
+- Clean chat UI with response rendering  
+
+**Tech Used:** HTML, CSS, JavaScript, API Integration
+
+---
+
+## 📄 OCR Document Upload & Verification System
+
+- Multi-document upload (SSN, Passport, Transcript, W2)  
+- Real-time validation & mismatch detection  
+- Error handling & retry flow  
+- Verification status dashboard  
+
+**Tech Used:** HTML, CSS, JavaScript  
+
+---
+
+## 🎓 University Application Management Dashboard
+
+- Multi-step application workflow  
+- Student progress tracking  
+- Document management interface  
+- Application declaration & digital confirmation  
+
+**Tech Used:** Frontend UI Design, Dashboard Structuring  
+
+---
+
+## 🖥 Cyber Café Management System
+
+- Admin dashboard  
+- User session tracking  
+- Record management  
+- System monitoring interface  
+
+**Tech Used:** Java / Basic backend logic  
+
+---
+
+## 🌐 Additional Academic & Practice Projects
+
+- Responsive Web Pages  
+- Form Validation Systems  
+- Mini Java Programs  
+- Basic MySQL Database Projects  
+- REST API testing using Postman  
+
+---
+
+# 🛠 Technical Skills
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Responsive UI Design
+- HTML5  
+- CSS3  
+- JavaScript  
 
-### Backend / Logic
-- Java (Basics)
-- Python (Basics)
-- MySQL
+### Programming
+- Java  
+- Python  
+- C / C++ (Basics)
+
+### Database
+- MySQL  
 
 ### Tools
-- Git & GitHub
-- Postman
-- Linux
-- VS Code
+- Git & GitHub  
+- Postman  
+- Linux  
+- VS Code  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandangowda18&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandangowda18&show_icons=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandangowda18&layout=compact" height="150"/>
 </p>
 
@@ -88,13 +115,7 @@ and clean user interfaces with practical problem-solving.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/chandan-m-n-062494226" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/_chandan_gowda18" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-</p>
+- LinkedIn: https://linkedin.com/in/chandan-m-n-062494226  
+- Instagram: https://instagram.com/_chandan_gowda18  
